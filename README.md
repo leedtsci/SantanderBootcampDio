@@ -9,7 +9,7 @@ Cumprir com as premissas de idealização de projetos do Bootcamp Santander 2025
 ## 🗂️ Estrutura do Projeto
 Foram inseridos os seguintes projetos
 '''
-├──ProjetoETL_BootcampSantander_DIO/
-│
-├── ProjetoAnaliseDadosExcel/
+├──ProjetoETL_BootcampSantander_DIO/<br>
+│<br>
+├── ProjetoAnaliseDadosExcel/<br>
 '''
