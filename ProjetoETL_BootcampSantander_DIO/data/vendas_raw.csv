@@ -1,0 +1,121 @@
+id_venda,produto,categoria,preco_unitario,quantidade,data_venda,cliente_id,cidade,estado
+1,Cadeira Gamer,perifericos,1570.82,6,2024-10-27,1701,São Paulo,MG
+2,Headset,acessorios,4198.48,10,2024-01-28,1099,Rio de Janeiro,SP
+3,Cadeira Gamer,mobília,815.45,1,2024-05-04,1572,Curitiba,SP
+4,Webcam,acessorios,2698.94,8,2024-06-23,1751,Rio de Janeiro,RJ
+5,Headset,acessorios,3044.86,1,2024-08-20,1975,Rio de Janeiro,RJ
+6,Notebook,mobília,1690.58,9,2024-03-16,1934,São Paulo,RJ
+7,Monitor,eletronicos,993.32,9,2024-04-29,1432,Salvador,RJ
+8,Webcam,perifericos,1788.21,7,2024-01-17,1067,São Paulo,RJ
+9,Impressora,mobília,4463.75,4,2024-06-15,1319,Belo Horizonte,PR
+10,Headset,mobília,1258.08,9,2024-03-08,1151,Rio de Janeiro,MG
+11,Teclado,perifericos,4387.11,9,2024-04-06,1245,São Paulo,SP
+12,Teclado,mobília,1605.56,2,2024-01-19,1104,Salvador,RJ
+13,Mouse,acessorios,1185.39,9,2024-09-25,1340,Belo Horizonte,RJ
+14,Headset,perifericos,1410.68,3,2024-10-16,1201,Salvador,PR
+15,Monitor,eletronicos,2133.98,9,2024-03-21,1804,Curitiba,PR
+16,Webcam,perifericos,4372.46,5,2024-09-03,1540,São Paulo,MG
+17,Notebook,eletronicos,3216.52,7,2024-07-01,1256,Rio de Janeiro,MG
+18,Teclado,mobília,3176.33,5,2024-04-02,1956,São Paulo,PR
+19,Webcam,mobília,4176.11,2,2024-05-14,1481,Curitiba,BA
+20,Cadeira Gamer,acessorios,4400.76,8,2024-05-15,1799,São Paulo,PR
+21,Mouse,acessorios,1354.36,9,2024-04-30,1330,São Paulo,BA
+22,Headset,perifericos,62.96,3,2024-07-02,1480,Salvador,SP
+23,Impressora,acessorios,813.65,9,2024-06-22,1068,São Paulo,MG
+24,Mouse,perifericos,4499.98,1,2024-04-17,1837,Curitiba,RJ
+25,Notebook,mobília,3998.45,2,2024-04-29,1742,Rio de Janeiro,MG
+26,Cadeira Gamer,eletronicos,669.37,6,2024-05-01,1907,Curitiba,SP
+27,Mouse,mobília,1466.81,1,2024-06-12,1523,Belo Horizonte,BA
+28,Webcam,perifericos,4346.87,3,2024-08-02,1813,Salvador,MG
+29,Monitor,acessorios,1584.89,1,2024-02-25,1686,São Paulo,PR
+30,Notebook,eletronicos,3522.33,4,2024-08-31,1084,São Paulo,SP
+31,Monitor,perifericos,1174.2,4,2024-01-29,1299,São Paulo,PR
+32,Mouse,perifericos,3934.5,8,2024-10-14,1493,Rio de Janeiro,MG
+33,Notebook,acessorios,1627.75,1,2024-06-20,1746,Curitiba,RJ
+34,Monitor,eletronicos,4308.15,8,2024-09-10,1679,São Paulo,SP
+35,Cadeira Gamer,perifericos,3610.6,2,2024-03-15,1273,Salvador,MG
+36,Headset,eletronicos,3401.35,3,2024-01-15,1345,Rio de Janeiro,MG
+37,Monitor,acessorios,1465.0,4,2024-02-13,1022,São Paulo,BA
+38,Notebook,acessorios,3392.57,8,2024-05-05,1697,Belo Horizonte,SP
+39,Cadeira Gamer,acessorios,3156.12,1,2024-09-14,1430,Curitiba,PR
+40,Headset,mobília,625.11,10,2024-02-17,1175,Rio de Janeiro,MG
+41,Headset,acessorios,3033.75,4,2024-02-26,1563,São Paulo,BA
+42,Monitor,perifericos,266.88,4,2024-06-19,1522,Salvador,SP
+43,Webcam,eletronicos,3971.81,10,2024-05-28,1511,Salvador,BA
+44,Cadeira Gamer,mobília,2831.21,9,2024-01-20,1535,Rio de Janeiro,SP
+45,Teclado,perifericos,3812.93,3,2024-10-16,1816,São Paulo,SP
+46,Impressora,eletronicos,4387.02,8,2024-02-15,1871,Curitiba,BA
+47,Teclado,mobília,1453.18,9,2024-04-22,1938,Salvador,MG
+48,Teclado,perifericos,2813.14,10,2024-05-04,1744,Rio de Janeiro,BA
+49,Cadeira Gamer,mobília,4013.34,5,2024-02-15,1154,Curitiba,PR
+50,Impressora,mobília,2649.13,9,2024-03-22,1678,Belo Horizonte,SP
+51,Impressora,perifericos,3534.75,10,2024-10-11,1529,São Paulo,SP
+52,Webcam,perifericos,2801.34,2,2024-02-28,1682,Belo Horizonte,RJ
+53,Mouse,acessorios,520.98,5,2024-05-18,1023,Belo Horizonte,SP
+54,Cadeira Gamer,acessorios,3809.71,8,2024-01-31,1606,Curitiba,SP
+55,Webcam,acessorios,1514.32,10,2024-07-25,1438,Curitiba,MG
+56,Headset,acessorios,1257.06,1,2024-02-01,1863,Salvador,SP
+57,Notebook,eletronicos,2276.62,9,2024-03-01,1977,Curitiba,PR
+58,Headset,eletronicos,3863.09,7,2024-10-10,1539,Rio de Janeiro,RJ
+59,Webcam,mobília,2612.4,3,2024-07-11,1746,Belo Horizonte,BA
+60,Mouse,acessorios,752.06,1,2024-09-07,1850,Curitiba,SP
+61,Notebook,perifericos,3836.86,9,2024-02-19,1562,São Paulo,PR
+62,Monitor,eletronicos,748.02,6,2024-08-30,1485,Rio de Janeiro,RJ
+63,Teclado,perifericos,1243.96,10,2024-01-27,1189,Belo Horizonte,RJ
+64,Teclado,eletronicos,4287.98,2,2024-04-13,1017,Belo Horizonte,MG
+65,Cadeira Gamer,mobília,1343.36,2,2024-09-17,1506,Rio de Janeiro,RJ
+66,Cadeira Gamer,acessorios,915.19,6,2024-01-21,1097,Curitiba,RJ
+67,Notebook,perifericos,834.06,9,2024-08-23,1608,Salvador,MG
+68,Cadeira Gamer,perifericos,737.03,3,2024-10-15,1617,Rio de Janeiro,MG
+69,Monitor,perifericos,935.05,4,2024-04-23,1279,Salvador,PR
+70,Mouse,mobília,1538.76,6,2024-03-01,1396,Curitiba,RJ
+71,Notebook,acessorios,1155.82,3,2024-08-06,1910,Rio de Janeiro,BA
+72,Notebook,perifericos,586.64,7,2024-03-17,1970,Curitiba,RJ
+73,Impressora,acessorios,1461.94,9,2024-05-27,1752,Salvador,RJ
+74,Headset,perifericos,1073.93,2,2024-07-04,1681,Curitiba,BA
+75,Monitor,perifericos,1810.48,6,2024-02-04,1524,Belo Horizonte,RJ
+76,Notebook,eletronicos,3630.26,5,2024-06-20,1779,Rio de Janeiro,PR
+77,Webcam,eletronicos,3587.86,8,2024-02-02,1930,São Paulo,MG
+78,Headset,acessorios,2242.0,3,2024-03-08,1461,Curitiba,MG
+79,Teclado,perifericos,2502.16,8,2024-01-11,1183,São Paulo,MG
+80,Cadeira Gamer,mobília,1971.87,8,2024-06-01,1322,Curitiba,SP
+81,Notebook,eletronicos,4117.88,2,2024-02-13,1482,Belo Horizonte,RJ
+82,Headset,perifericos,1167.07,3,2024-04-28,1361,São Paulo,RJ
+83,Webcam,acessorios,2946.46,7,2024-09-20,1318,Rio de Janeiro,PR
+84,Impressora,eletronicos,4099.14,10,2024-01-19,1182,São Paulo,BA
+85,Webcam,mobília,1196.33,2,2024-01-22,1938,Belo Horizonte,BA
+86,Headset,eletronicos,1507.15,7,2024-10-03,1725,São Paulo,RJ
+87,Impressora,perifericos,1182.05,4,2024-05-12,1460,Rio de Janeiro,MG
+88,Headset,eletronicos,2276.81,6,2024-01-10,1958,Salvador,BA
+89,Teclado,eletronicos,2250.3,6,2024-03-31,1548,Curitiba,SP
+90,Monitor,mobília,3916.63,7,2024-08-07,1777,Curitiba,SP
+91,Notebook,mobília,3561.66,8,2024-08-09,1187,Salvador,SP
+92,Monitor,perifericos,2004.99,2,2024-02-17,1805,São Paulo,BA
+93,Cadeira Gamer,perifericos,1170.57,10,2024-07-08,1940,Curitiba,BA
+94,Cadeira Gamer,mobília,4066.01,7,2024-06-19,1719,Belo Horizonte,RJ
+95,Headset,mobília,2559.05,3,2024-03-09,1821,Curitiba,MG
+96,Headset,eletronicos,389.24,8,2024-05-21,1627,Curitiba,RJ
+97,Notebook,perifericos,4137.46,10,2024-03-02,1337,São Paulo,BA
+98,Monitor,acessorios,1316.16,3,2024-07-02,1134,Salvador,PR
+99,Cadeira Gamer,eletronicos,3544.8,9,2024-08-07,1512,Curitiba,RJ
+100,Notebook,mobília,1274.24,1,2024-06-14,1596,Salvador,PR
+101,Monitor,mobília,431.28,3,2024-09-28,1690,Salvador,BA
+102,Cadeira Gamer,acessorios,253.6,2,2024-07-04,1719,Belo Horizonte,BA
+103,Headset,mobília,3838.28,9,2024-09-22,1035,Rio de Janeiro,RJ
+104,Impressora,acessorios,619.52,1,2024-07-18,1780,Salvador,PR
+105,Mouse,mobília,1899.63,10,2024-06-02,1966,Curitiba,BA
+106,Webcam,acessorios,1156.93,10,2024-07-23,1420,Salvador,PR
+107,Webcam,acessorios,4459.29,10,2024-09-06,1155,Salvador,SP
+108,Webcam,mobília,1856.01,9,2024-05-25,1553,São Paulo,RJ
+109,Monitor,acessorios,740.67,1,2024-02-07,1204,Rio de Janeiro,PR
+110,Teclado,eletronicos,2861.99,5,2024-07-05,1374,São Paulo,SP
+111,Teclado,eletronicos,1565.75,6,2024-02-17,1915,Curitiba,PR
+112,Headset,acessorios,2277.71,1,2024-07-12,1507,Salvador,MG
+113,Impressora,eletronicos,267.35,6,2024-09-26,1212,Belo Horizonte,MG
+114,Monitor,mobília,2503.11,6,2024-04-27,1924,Belo Horizonte,PR
+115,Monitor,perifericos,2839.46,10,2024-02-03,1214,Rio de Janeiro,RJ
+116,Teclado,perifericos,4311.34,9,2024-07-24,1781,Rio de Janeiro,MG
+117,Webcam,mobília,448.8,3,2024-02-01,1515,São Paulo,PR
+118,Headset,mobília,1683.75,5,2024-04-24,1482,Curitiba,RJ
+119,Monitor,mobília,2703.44,5,2024-02-29,1342,Salvador,RJ
+120,Webcam,eletronicos,802.85,3,2024-07-07,1209,Salvador,PR
