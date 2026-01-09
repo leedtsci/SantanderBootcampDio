@@ -7,9 +7,7 @@ O reposítorio foi criado para postagem de projetos criados para armazenamento d
 Cumprir com as premissas de idealização de projetos do Bootcamp Santander 2025
 
 ## 🗂️ Estrutura do Projeto
-Foram inseridos os seguintes projetos
-'''
+Foram inseridos os seguintes projetos<br><br>
 ├──ProjetoETL_BootcampSantander_DIO/<br>
 │<br>
 ├── ProjetoAnaliseDadosExcel/<br>
-'''
