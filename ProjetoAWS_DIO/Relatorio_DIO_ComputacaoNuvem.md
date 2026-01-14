@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 14 de janeiro de 2026
-Empresa: Abstergo Industries 
-Responsável: Leandro de Souza Reis Silva
+Data: 14 de janeiro de 2026<br>
+Empresa: Abstergo Industries<br> 
+Responsável: Leandro de Souza Reis Silva<br>
 
 ## 📌 Visão Geral
 Projeto de otimização de custos em AWS realizado para a **Abstergo Industries**, com foco em **redução imediata de despesas operacionais**, sem impacto em desempenho, disponibilidade ou segurança.
@@ -66,3 +66,4 @@ Reduzir custos de infraestrutura em nuvem por meio da adoção estratégica de s
 ---
 
 **Responsável:** Leandro de Souza Reis Silva
+
